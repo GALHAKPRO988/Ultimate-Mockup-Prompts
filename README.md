@@ -23,7 +23,7 @@ Every prompt is built as a reusable template using customizable `[VARIABLES]`, a
 
 ## Example result
 
-![example_image](example_result.png)
+![example_image](example_result.jpg)
 
 **Prompt used:** [`templates/07-full-branding-scene.md`](templates/07-full-branding-scene.md) (Mega-Prompt: Full Branding Scene).
 
