@@ -466,7 +466,7 @@ When adding a new prompt:
 
 ## License
 
-The prompts in this repository can be distributed under the license specified by the repository owner.
+The prompts in this repository can be distributed under the MIT License.
 
 Generated images are separate from the prompt files and may be subject to the terms, conditions, licensing requirements, and usage policies of the image-generation platform or model used to create them.
 
